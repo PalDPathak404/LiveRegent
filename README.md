@@ -17,7 +17,7 @@ The system consists of:
 - Pathway Streaming Engine for change detection
 - Live Knowledge Index with incremental updates
 - Agent Orchestrator for planning and tool use
-- LLM Reasoning Layer for analysis and decisions
+- LLM Reasoning Layer for analysis and decisions 
 
 ## Current Stage
 This repository represents the **proposal and system design phase** of the project.  
