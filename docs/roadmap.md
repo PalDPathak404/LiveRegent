@@ -13,7 +13,7 @@
 ## Phase 3: Advanced Agentic Reasoning
 - Multi-step planning
 - Tool usage and error handling
-- Live change demonstrations
+- Live change demonstrations 
 
 ## Phase 4: Post-Transformer Integration
 - Replace transformer-based reasoning with Dragon Hatchling (BDH)
