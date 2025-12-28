@@ -32,5 +32,5 @@ Implementation will follow in later rounds.
 Track 1 – Agentic AI (Applied GenAI)
 
 ## Team
-Pal Pathak
+Pal Pathak,
 Jivan Patel
